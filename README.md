@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey , I'm Med Aziz Ben Ismail </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey , I'm Arlandon ANDRIANANTENAINA </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Aziz+BenIsmail..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -10,8 +10,8 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Mohamed Aziz Ben Ismail, a freshly graduated Computer Engineer from ESPRIT in Tunisia 💻, with over one year of experience as a Full Stack Web Engineer and Web Trainer, I'm 25 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
-I am completely passionate about frontend backend development .
+I'm Arlandon, a freshly graduated Computer Engineer from CNTEMAD in Madagascar 💻, with over three years of experience as a Full Stack Web Engineer and Web Trainer, 
+I am completely passionate about frontend | backend development .
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
