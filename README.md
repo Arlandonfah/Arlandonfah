@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hey , I'm Arlandon ANDRIANANTENAINA </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
-**About me**
+
+
+<h3 align="center">A passionate fullstack developer from Madagascar</h3>
 
 I'm Arlandon, a freshly graduated Computer Engineer from CNTEMAD in Madagascar 💻, with over three years of experience as a Full Stack Web Engineer and Web Trainer, 
 I am completely passionate about frontend | backend development .
@@ -30,7 +30,6 @@ I am completely passionate about frontend | backend development .
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
-<h3 align="center">A passionate fullstack developer from Madagascar</h3>
 
 - 🔭 I’m currently working on **Pulsar**
 
